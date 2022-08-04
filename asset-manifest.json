@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/biloniya/static/css/main.51454448.css",
+    "main.js": "/biloniya/static/js/main.f0370404.js",
+    "static/js/787.5a1a17be.chunk.js": "/biloniya/static/js/787.5a1a17be.chunk.js",
+    "static/media/logo.svg": "/biloniya/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/biloniya/index.html",
+    "main.51454448.css.map": "/biloniya/static/css/main.51454448.css.map",
+    "main.f0370404.js.map": "/biloniya/static/js/main.f0370404.js.map",
+    "787.5a1a17be.chunk.js.map": "/biloniya/static/js/787.5a1a17be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51454448.css",
+    "static/js/main.f0370404.js"
+  ]
+}
